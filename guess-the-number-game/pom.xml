@@ -19,6 +19,7 @@
         <logback.version>1.4.11</logback.version>
         <spring.version>6.1.0</spring.version>
         <java.version>17</java.version>
+        <annotation-api.version>3.0.0-M1</annotation-api.version>
     </properties>
 
     <dependencyManagement>
@@ -35,6 +36,14 @@
                 <artifactId>spring-context</artifactId>
                 <version>${spring.version}</version>
             </dependency>
+
+            <!-- https://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api -->
+            <dependency>
+                <groupId>jakarta.annotation</groupId>
+                <artifactId>jakarta.annotation-api</artifactId>
+                <version>${annotation-api.version}</version>
+            </dependency>
+
 
         </dependencies>
     </dependencyManagement>
