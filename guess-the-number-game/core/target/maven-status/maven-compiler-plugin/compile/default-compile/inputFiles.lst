@@ -1,7 +1,10 @@
 /Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/MessageGeneratorImpl.java
 /Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/NumberGeneratorImpl.java
+/Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/MinNumber.java
 /Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/GameImpl.java
 /Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/MessageGenerator.java
+/Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/MaxNumber.java
 /Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/NumberGenerator.java
-/Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/AppConfig.java
+/Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/config/GameConfig.java
+/Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/GuessCount.java
 /Users/huseyinbasturk/Desktop/PROJECTS/Spring Masterclass/guess-the-number-game/core/src/main/java/academy/learnprogramming/Game.java
